@@ -1,0 +1,7 @@
+{
+  "name": "FreightForward MVP",
+  "description": "A streamlined freight forwarding request application integrated with LINE LIFF and Supabase.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
